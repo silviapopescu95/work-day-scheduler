@@ -10,6 +10,14 @@
     text-align: center;
 }
 
-.btn{
-    float: right;
+.past {
+    background-color: whitesmoke;
+}
+
+.current {
+    background-color: orangered;
+}
+
+.future {
+    background-color: palegreen;
 }
